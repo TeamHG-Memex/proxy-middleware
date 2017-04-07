@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+from scrapy.exceptions import NotConfigured
 from scrapy.downloadermiddlewares.httpproxy import HttpProxyMiddleware
 
 
