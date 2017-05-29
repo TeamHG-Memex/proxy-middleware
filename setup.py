@@ -17,7 +17,7 @@ setup(
     install_requires=[
         'scrapy>=1.1.0',
     ],
-    long_description=read('README.rst'),
+    long_description=read('README.rst') + '\n\n' + read('CHANGES.rst'),
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Topic :: Internet :: WWW/HTTP :: Indexing/Search',
