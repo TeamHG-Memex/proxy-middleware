@@ -8,7 +8,7 @@ def read(fname):
 
 setup(
     name='proxy-middleware',
-    version='0.1.1',
+    version='0.2.0',
     description=('Scrapy http proxy middleware that gets '
                  'proxy parameters from settings'),
     license='MIT',
