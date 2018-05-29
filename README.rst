@@ -56,5 +56,5 @@ License is MIT.
 ----
 
 .. image:: https://hyperiongray.s3.amazonaws.com/define-hg.svg
-	:target: https://hyperiongray.com/?pk_campaign=github&pk_kwd=proxy-middleware
+	:target: https://www.hyperiongray.com/?pk_campaign=github&pk_kwd=proxy-middleware
 	:alt: define hyperiongray
